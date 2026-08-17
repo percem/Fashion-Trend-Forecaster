@@ -79,3 +79,21 @@ Fashion-Trend-Forecaster/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## 📸 Dashboard Preview
+
+### 🔮 Trend Prediction
+
+![Trend Prediction](images/prediction.png)
+
+### 📊 Fashion Analytics Dashboard
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+### ⭐ Average Rating
+
+![Average Rating](images/average_rating.png)
+
+### 📈 Feature Importance
+
+![Feature Importance](images/feature_importance.png)
